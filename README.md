@@ -1,33 +1,15 @@
-Banking Application System (Java)
-A simple Java-based Banking Application System that allows users to manage accounts, perform transactions, and process payments efficiently.
+# Banking Application System
 
-Features
-Create Savings Account and Current Account
+## Overview
+The Banking Application System is a Java-based project that simulates basic banking operations such as creating accounts, depositing money, withdrawing funds, and checking balances.  
+It is designed with object-oriented programming principles and can be extended to include features like loan management, transaction history, and online payment integration.
 
-Deposit and Withdraw funds
+## Features
+- Create new accounts (Savings and Current)
+- Deposit and withdraw money
+- Balance inquiry
+- Simple, clean console-based interface
 
-Check Account Balance
-
-Payment Processing System integration
-
-Object-Oriented design (Encapsulation, Inheritance, Polymorphism)
-
-Simple and clean console-based interface
-
-Tech Stack
-Language: Java
-
-IDE: VS Code / IntelliJ IDEA
-
-Version Control: Git & GitHub
-
-Project Structure
-css
-Copy
-Edit
-src/
-│── Account.java
-│── SavingsAccount.java
-│── CurrentAccount.java
-│── PaymentProcessing.java
-│── Main.java
+## Technologies Used
+- **Java** (Core Java, OOP)
+- **Git** for version control
